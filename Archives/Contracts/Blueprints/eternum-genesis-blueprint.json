@@ -1,11 +1,11 @@
 {
-    "ETRGEN_blueprint": {
-        "seed_token": "IMAGE",
-        "seed_address": "0xa07d13a8e0ba4d9ddd372f6bf8479c6b585b692a",
-        "genesis_type": "ERC20",
-        "total_supply": "1000000 ETRGEN",
-        "wrapped_supply": "10000000 IMAGE (planned)",
-        "status": "linked"
-    },
-    "timestamp": "2025-04-02T00:00:00Z"
+  "ETRGEN_blueprint": {
+    "seed_token": "IMAGE",
+    "seed_address": "0xa07d13a8e0ba4d9ddd372f6bf8479c6b585b692a",
+    "genesis_type": "ERC20",
+    "total_supply": "1000000 ETRGEN",
+    "wrapped_supply": "10000000 IMAGE (planned)",
+    "status": "linked"
+  },
+  "timestamp": "2025-04-02T00:00:00Z"
 }
