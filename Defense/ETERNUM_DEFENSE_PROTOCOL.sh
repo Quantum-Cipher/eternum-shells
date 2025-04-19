@@ -1,4 +1,3 @@
-#!/bin/bash
 # ETERNUM_DEFENSE_PROTOCOL.sh
 # Integrated script to deploy Watchdog, Ghostwire, BridgeHunter Protocol (BHP),
 # DAN_SAFE remote mirror, and Blackhole Decoy.
