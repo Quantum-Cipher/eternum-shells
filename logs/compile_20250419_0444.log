@@ -1,0 +1,14 @@
+Error: Compiler run failed:
+Error (6275): Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ParserError: Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ --> chain/script/deploy_mycelium_engine.s.sol:4:1:
+  |
+4 | import "forge-std/Script.sol";
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Error (6275): Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ParserError: Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ --> script/deploy_mycelium_engine.s.sol:4:1:
+  |
+4 | import "forge-std/Script.sol";
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,0 +1,1900 @@
+[2025-04-19 03:13:54.617904] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:54.617958] 📦 Vaulting metadata...
+[2025-04-19 03:13:54.621712] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031354.csv
+[2025-04-19 03:13:54.621767] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:54.857368] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:54.857402] 📦 Vaulting metadata...
+[2025-04-19 03:13:54.859822] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031354.csv
+[2025-04-19 03:13:54.859867] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:54.975014] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:54.975051] 📦 Vaulting metadata...
+[2025-04-19 03:13:54.977472] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031354.csv
+[2025-04-19 03:13:54.977512] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.092644] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.092677] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.094963] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.094999] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.210394] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.210427] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.212716] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.212754] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.330519] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.330553] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.332904] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.332942] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.461971] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.462008] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.464365] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.464408] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.583634] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.583671] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.586044] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.586086] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.704920] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.704956] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.707394] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.707431] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.827751] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.827793] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.830539] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.830592] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:55.959947] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:55.959984] 📦 Vaulting metadata...
+[2025-04-19 03:13:55.962488] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031355.csv
+[2025-04-19 03:13:55.962527] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.092234] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.092273] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.095042] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.095091] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.221571] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.221610] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.224158] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.224205] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.360721] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.360761] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.363377] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.363426] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.486398] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.486435] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.489109] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.489159] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.613500] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.613553] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.617134] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.617226] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.742578] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.742641] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.746142] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.746203] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:56.880503] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:56.880549] 📦 Vaulting metadata...
+[2025-04-19 03:13:56.883576] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031356.csv
+[2025-04-19 03:13:56.883625] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.013907] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.013949] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.017055] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.017111] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.147083] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.147124] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.150686] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.150736] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.278845] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.278883] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.281375] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.281420] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.411303] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.411344] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.414171] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.414222] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.543027] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.543072] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.546238] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.546287] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.674980] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.675024] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.678559] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.678607] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.809389] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.809432] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.812839] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.812888] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:57.943929] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:57.943972] 📦 Vaulting metadata...
+[2025-04-19 03:13:57.947125] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031357.csv
+[2025-04-19 03:13:57.947184] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.088791] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.088836] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.092176] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.092249] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.229570] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.229618] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.232666] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.232720] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.368497] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.368542] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.372017] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.372071] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.507953] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.507997] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.512092] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.512150] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.647501] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.647547] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.650573] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.650624] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.787042] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.787092] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.790190] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.790247] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:58.942843] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:58.942888] 📦 Vaulting metadata...
+[2025-04-19 03:13:58.946080] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031358.csv
+[2025-04-19 03:13:58.946133] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.094143] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.094195] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.097669] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.097727] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.245536] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.245582] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.248554] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.248604] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.391103] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.391150] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.394410] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.394467] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.540632] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.540678] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.544180] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.544246] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.714533] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.714589] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.719181] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.719237] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:13:59.878540] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:13:59.878586] 📦 Vaulting metadata...
+[2025-04-19 03:13:59.882644] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031359.csv
+[2025-04-19 03:13:59.882712] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.033644] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.033705] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.038477] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.038537] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.184102] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.184171] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.187723] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.187776] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.333056] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.333098] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.336705] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.336760] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.483912] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.483954] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.487463] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.487516] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.635055] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.635114] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.638994] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.639046] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.787850] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.787900] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.791526] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.791577] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:00.939964] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:00.940007] 📦 Vaulting metadata...
+[2025-04-19 03:14:00.943637] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031400.csv
+[2025-04-19 03:14:00.943692] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.093489] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.093532] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.098235] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.098290] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.249944] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.249989] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.253628] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.253683] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.406496] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.406540] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.410204] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.410260] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.562590] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.562636] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.566227] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.566282] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.719210] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.719257] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.722995] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.723051] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:01.877637] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:01.877682] 📦 Vaulting metadata...
+[2025-04-19 03:14:01.881455] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031401.csv
+[2025-04-19 03:14:01.881510] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.036253] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.036297] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.040929] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.040985] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.199066] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.199116] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.202980] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.203030] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.359931] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.359970] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.363573] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.363621] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.522996] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.523036] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.526642] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.526690] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.684925] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.684968] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.689102] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.689154] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:02.848165] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:02.848207] 📦 Vaulting metadata...
+[2025-04-19 03:14:02.852645] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031402.csv
+[2025-04-19 03:14:02.852698] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.013634] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.013675] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.018027] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.018078] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.180809] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.180852] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.185278] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.185332] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.354232] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.354285] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.360421] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.360476] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.522991] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.523042] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.527394] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.527506] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.690426] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.690473] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.694605] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.694656] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:03.859933] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:03.859982] 📦 Vaulting metadata...
+[2025-04-19 03:14:03.864664] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031403.csv
+[2025-04-19 03:14:03.864723] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.031226] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.031277] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.035468] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.035525] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.212578] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.212631] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.217327] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.217392] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.390705] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.390755] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.395573] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.395644] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.567400] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.567449] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.571928] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.571991] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.743340] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.743393] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.747714] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.747772] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:04.917857] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:04.917908] 📦 Vaulting metadata...
+[2025-04-19 03:14:04.922547] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031404.csv
+[2025-04-19 03:14:04.922602] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:05.103950] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:05.104001] 📦 Vaulting metadata...
+[2025-04-19 03:14:05.108468] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031405.csv
+[2025-04-19 03:14:05.108526] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:05.296567] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:05.296621] 📦 Vaulting metadata...
+[2025-04-19 03:14:05.301530] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031405.csv
+[2025-04-19 03:14:05.301587] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:05.476952] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:05.477006] 📦 Vaulting metadata...
+[2025-04-19 03:14:05.481887] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031405.csv
+[2025-04-19 03:14:05.481947] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:05.659197] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:05.659251] 📦 Vaulting metadata...
+[2025-04-19 03:14:05.663894] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031405.csv
+[2025-04-19 03:14:05.663950] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:05.842928] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:05.842979] 📦 Vaulting metadata...
+[2025-04-19 03:14:05.847542] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031405.csv
+[2025-04-19 03:14:05.847606] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.024149] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.024212] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.030017] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.030082] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.211430] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.211485] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.216443] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.216500] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.395764] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.395820] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.400765] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.400824] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.591143] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.591232] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.596193] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.596266] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.784795] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.784852] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.790202] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.790284] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:06.981263] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:06.981350] 📦 Vaulting metadata...
+[2025-04-19 03:14:06.986820] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031406.csv
+[2025-04-19 03:14:06.986883] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:07.173829] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:07.173889] 📦 Vaulting metadata...
+[2025-04-19 03:14:07.179386] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031407.csv
+[2025-04-19 03:14:07.179446] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:07.365184] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:07.365243] 📦 Vaulting metadata...
+[2025-04-19 03:14:07.370704] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031407.csv
+[2025-04-19 03:14:07.370777] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:07.556338] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:07.556394] 📦 Vaulting metadata...
+[2025-04-19 03:14:07.561550] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031407.csv
+[2025-04-19 03:14:07.561612] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:07.749827] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:07.749885] 📦 Vaulting metadata...
+[2025-04-19 03:14:07.756039] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031407.csv
+[2025-04-19 03:14:07.756112] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:07.943637] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:07.943694] 📦 Vaulting metadata...
+[2025-04-19 03:14:07.949063] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031407.csv
+[2025-04-19 03:14:07.949156] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:08.138436] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:08.138492] 📦 Vaulting metadata...
+[2025-04-19 03:14:08.144927] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031408.csv
+[2025-04-19 03:14:08.145007] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:08.336080] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:08.336139] 📦 Vaulting metadata...
+[2025-04-19 03:14:08.341680] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031408.csv
+[2025-04-19 03:14:08.341742] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:08.538350] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:08.538409] 📦 Vaulting metadata...
+[2025-04-19 03:14:08.543445] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031408.csv
+[2025-04-19 03:14:08.543522] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:08.737511] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:08.737570] 📦 Vaulting metadata...
+[2025-04-19 03:14:08.743134] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031408.csv
+[2025-04-19 03:14:08.743232] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:08.941113] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:08.941172] 📦 Vaulting metadata...
+[2025-04-19 03:14:08.946702] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031408.csv
+[2025-04-19 03:14:08.946771] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:09.139935] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:09.139996] 📦 Vaulting metadata...
+[2025-04-19 03:14:09.145928] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031409.csv
+[2025-04-19 03:14:09.145999] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:09.349180] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:09.349242] 📦 Vaulting metadata...
+[2025-04-19 03:14:09.355345] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031409.csv
+[2025-04-19 03:14:09.355420] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:09.569099] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:09.569162] 📦 Vaulting metadata...
+[2025-04-19 03:14:09.575478] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031409.csv
+[2025-04-19 03:14:09.575548] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:09.775035] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:09.775111] 📦 Vaulting metadata...
+[2025-04-19 03:14:09.780669] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031409.csv
+[2025-04-19 03:14:09.780743] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:09.991002] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:09.991069] 📦 Vaulting metadata...
+[2025-04-19 03:14:09.998084] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031409.csv
+[2025-04-19 03:14:09.998155] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:10.208411] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:10.208479] 📦 Vaulting metadata...
+[2025-04-19 03:14:10.214601] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031410.csv
+[2025-04-19 03:14:10.214680] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:10.418327] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:10.418391] 📦 Vaulting metadata...
+[2025-04-19 03:14:10.424360] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031410.csv
+[2025-04-19 03:14:10.424431] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:10.628678] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:10.628743] 📦 Vaulting metadata...
+[2025-04-19 03:14:10.634611] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031410.csv
+[2025-04-19 03:14:10.634680] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:10.838065] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:10.838129] 📦 Vaulting metadata...
+[2025-04-19 03:14:10.844325] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031410.csv
+[2025-04-19 03:14:10.844408] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:11.049621] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:11.049685] 📦 Vaulting metadata...
+[2025-04-19 03:14:11.055715] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031411.csv
+[2025-04-19 03:14:11.055783] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:11.264948] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:11.265013] 📦 Vaulting metadata...
+[2025-04-19 03:14:11.271189] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031411.csv
+[2025-04-19 03:14:11.271260] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:11.478902] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:11.478965] 📦 Vaulting metadata...
+[2025-04-19 03:14:11.485524] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031411.csv
+[2025-04-19 03:14:11.485601] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:11.694395] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:11.694464] 📦 Vaulting metadata...
+[2025-04-19 03:14:11.700586] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031411.csv
+[2025-04-19 03:14:11.700656] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:11.907395] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:11.907458] 📦 Vaulting metadata...
+[2025-04-19 03:14:11.914934] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031411.csv
+[2025-04-19 03:14:11.915007] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:12.125930] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:12.125996] 📦 Vaulting metadata...
+[2025-04-19 03:14:12.132263] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031412.csv
+[2025-04-19 03:14:12.132332] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:12.345202] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:12.345263] 📦 Vaulting metadata...
+[2025-04-19 03:14:12.351800] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031412.csv
+[2025-04-19 03:14:12.351892] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:12.565780] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:12.565843] 📦 Vaulting metadata...
+[2025-04-19 03:14:12.572163] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031412.csv
+[2025-04-19 03:14:12.572234] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:12.785870] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:12.785923] 📦 Vaulting metadata...
+[2025-04-19 03:14:12.792201] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031412.csv
+[2025-04-19 03:14:12.792264] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:13.008010] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:13.008069] 📦 Vaulting metadata...
+[2025-04-19 03:14:13.014453] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031413.csv
+[2025-04-19 03:14:13.014519] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:13.232182] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:13.232238] 📦 Vaulting metadata...
+[2025-04-19 03:14:13.238540] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031413.csv
+[2025-04-19 03:14:13.238608] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:13.456817] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:13.456874] 📦 Vaulting metadata...
+[2025-04-19 03:14:13.463191] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031413.csv
+[2025-04-19 03:14:13.463259] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:13.688365] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:13.688429] 📦 Vaulting metadata...
+[2025-04-19 03:14:13.695161] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031413.csv
+[2025-04-19 03:14:13.695246] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:13.927172] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:13.927227] 📦 Vaulting metadata...
+[2025-04-19 03:14:13.934621] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031413.csv
+[2025-04-19 03:14:13.934718] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:14.158773] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:14.158833] 📦 Vaulting metadata...
+[2025-04-19 03:14:14.166050] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031414.csv
+[2025-04-19 03:14:14.166142] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:14.389674] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:14.389731] 📦 Vaulting metadata...
+[2025-04-19 03:14:14.396225] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031414.csv
+[2025-04-19 03:14:14.396293] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:14.619140] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:14.619197] 📦 Vaulting metadata...
+[2025-04-19 03:14:14.625600] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031414.csv
+[2025-04-19 03:14:14.625663] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:14.850406] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:14.850464] 📦 Vaulting metadata...
+[2025-04-19 03:14:14.856127] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031414.csv
+[2025-04-19 03:14:14.856197] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:15.102927] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:15.102989] 📦 Vaulting metadata...
+[2025-04-19 03:14:15.109862] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031415.csv
+[2025-04-19 03:14:15.109936] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:15.335672] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:15.335735] 📦 Vaulting metadata...
+[2025-04-19 03:14:15.341938] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031415.csv
+[2025-04-19 03:14:15.342004] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:15.566742] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:15.566832] 📦 Vaulting metadata...
+[2025-04-19 03:14:15.573432] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031415.csv
+[2025-04-19 03:14:15.573498] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:15.805376] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:15.805438] 📦 Vaulting metadata...
+[2025-04-19 03:14:15.812600] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031415.csv
+[2025-04-19 03:14:15.812674] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:16.051531] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:16.051596] 📦 Vaulting metadata...
+[2025-04-19 03:14:16.059045] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031416.csv
+[2025-04-19 03:14:16.059189] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:16.290857] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:16.290919] 📦 Vaulting metadata...
+[2025-04-19 03:14:16.298163] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031416.csv
+[2025-04-19 03:14:16.298239] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:16.528373] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:16.528437] 📦 Vaulting metadata...
+[2025-04-19 03:14:16.535061] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031416.csv
+[2025-04-19 03:14:16.535131] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:16.764895] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:16.764960] 📦 Vaulting metadata...
+[2025-04-19 03:14:16.772345] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031416.csv
+[2025-04-19 03:14:16.772414] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:17.006024] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:17.006085] 📦 Vaulting metadata...
+[2025-04-19 03:14:17.014035] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031417.csv
+[2025-04-19 03:14:17.014105] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:17.257985] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:17.258046] 📦 Vaulting metadata...
+[2025-04-19 03:14:17.264139] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031417.csv
+[2025-04-19 03:14:17.264211] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:17.507383] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:17.507453] 📦 Vaulting metadata...
+[2025-04-19 03:14:17.514216] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031417.csv
+[2025-04-19 03:14:17.514295] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:17.755752] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:17.755823] 📦 Vaulting metadata...
+[2025-04-19 03:14:17.762897] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031417.csv
+[2025-04-19 03:14:17.762971] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:18.001075] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:18.001148] 📦 Vaulting metadata...
+[2025-04-19 03:14:18.008089] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031418.csv
+[2025-04-19 03:14:18.008175] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:18.249327] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:18.249390] 📦 Vaulting metadata...
+[2025-04-19 03:14:18.256401] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031418.csv
+[2025-04-19 03:14:18.256483] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:18.503027] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:18.503099] 📦 Vaulting metadata...
+[2025-04-19 03:14:18.510383] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031418.csv
+[2025-04-19 03:14:18.510467] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:18.753564] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:18.753636] 📦 Vaulting metadata...
+[2025-04-19 03:14:18.761161] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031418.csv
+[2025-04-19 03:14:18.761245] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:19.005460] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:19.005527] 📦 Vaulting metadata...
+[2025-04-19 03:14:19.011623] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031419.csv
+[2025-04-19 03:14:19.011695] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:19.260292] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:19.260358] 📦 Vaulting metadata...
+[2025-04-19 03:14:19.267584] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031419.csv
+[2025-04-19 03:14:19.267665] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:19.523789] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:19.523858] 📦 Vaulting metadata...
+[2025-04-19 03:14:19.530311] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031419.csv
+[2025-04-19 03:14:19.530389] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:19.787025] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:19.787093] 📦 Vaulting metadata...
+[2025-04-19 03:14:19.793689] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031419.csv
+[2025-04-19 03:14:19.793773] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:20.043550] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:20.043618] 📦 Vaulting metadata...
+[2025-04-19 03:14:20.051039] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031420.csv
+[2025-04-19 03:14:20.051111] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:20.315077] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:20.315155] 📦 Vaulting metadata...
+[2025-04-19 03:14:20.322387] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031420.csv
+[2025-04-19 03:14:20.322490] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:20.590881] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:20.590960] 📦 Vaulting metadata...
+[2025-04-19 03:14:20.598544] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031420.csv
+[2025-04-19 03:14:20.598644] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:20.867050] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:20.867124] 📦 Vaulting metadata...
+[2025-04-19 03:14:20.875050] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031420.csv
+[2025-04-19 03:14:20.875148] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:21.133581] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:21.133662] 📦 Vaulting metadata...
+[2025-04-19 03:14:21.141738] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031421.csv
+[2025-04-19 03:14:21.141827] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:21.407168] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:21.407247] 📦 Vaulting metadata...
+[2025-04-19 03:14:21.414683] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031421.csv
+[2025-04-19 03:14:21.414777] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:21.696598] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:21.696682] 📦 Vaulting metadata...
+[2025-04-19 03:14:21.706804] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031421.csv
+[2025-04-19 03:14:21.706917] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:21.968603] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:21.968672] 📦 Vaulting metadata...
+[2025-04-19 03:14:21.975638] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031421.csv
+[2025-04-19 03:14:21.975715] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:22.236117] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:22.236190] 📦 Vaulting metadata...
+[2025-04-19 03:14:22.243920] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031422.csv
+[2025-04-19 03:14:22.244165] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:22.506746] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:22.506827] 📦 Vaulting metadata...
+[2025-04-19 03:14:22.514315] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031422.csv
+[2025-04-19 03:14:22.514396] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:22.781003] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:22.781076] 📦 Vaulting metadata...
+[2025-04-19 03:14:22.789273] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031422.csv
+[2025-04-19 03:14:22.789351] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:23.053045] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:23.053118] 📦 Vaulting metadata...
+[2025-04-19 03:14:23.060931] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031423.csv
+[2025-04-19 03:14:23.061018] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:23.325688] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:23.325768] 📦 Vaulting metadata...
+[2025-04-19 03:14:23.333769] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031423.csv
+[2025-04-19 03:14:23.333860] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:23.593545] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:23.593627] 📦 Vaulting metadata...
+[2025-04-19 03:14:23.601091] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031423.csv
+[2025-04-19 03:14:23.601180] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:23.864981] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:23.865054] 📦 Vaulting metadata...
+[2025-04-19 03:14:23.872653] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031423.csv
+[2025-04-19 03:14:23.872731] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:24.136849] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:24.136931] 📦 Vaulting metadata...
+[2025-04-19 03:14:24.144569] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031424.csv
+[2025-04-19 03:14:24.144661] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:24.417815] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:24.417896] 📦 Vaulting metadata...
+[2025-04-19 03:14:24.425904] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031424.csv
+[2025-04-19 03:14:24.425997] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:24.697771] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:24.697852] 📦 Vaulting metadata...
+[2025-04-19 03:14:24.706536] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031424.csv
+[2025-04-19 03:14:24.706635] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:24.977815] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:24.977901] 📦 Vaulting metadata...
+[2025-04-19 03:14:24.985367] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031424.csv
+[2025-04-19 03:14:24.985461] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:25.258431] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:25.258511] 📦 Vaulting metadata...
+[2025-04-19 03:14:25.266911] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031425.csv
+[2025-04-19 03:14:25.267003] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:25.542324] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:25.542405] 📦 Vaulting metadata...
+[2025-04-19 03:14:25.550422] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031425.csv
+[2025-04-19 03:14:25.550516] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:25.823287] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:25.823362] 📦 Vaulting metadata...
+[2025-04-19 03:14:25.831538] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031425.csv
+[2025-04-19 03:14:25.831619] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:26.109145] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:26.109379] 📦 Vaulting metadata...
+[2025-04-19 03:14:26.117423] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031426.csv
+[2025-04-19 03:14:26.117520] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:26.395408] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:26.395476] 📦 Vaulting metadata...
+[2025-04-19 03:14:26.402993] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031426.csv
+[2025-04-19 03:14:26.403070] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:26.675235] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:26.675317] 📦 Vaulting metadata...
+[2025-04-19 03:14:26.683916] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031426.csv
+[2025-04-19 03:14:26.684010] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:26.967859] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:26.967931] 📦 Vaulting metadata...
+[2025-04-19 03:14:26.975714] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031426.csv
+[2025-04-19 03:14:26.975809] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:27.251492] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:27.251566] 📦 Vaulting metadata...
+[2025-04-19 03:14:27.259342] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031427.csv
+[2025-04-19 03:14:27.259420] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:27.537298] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:27.537368] 📦 Vaulting metadata...
+[2025-04-19 03:14:27.545308] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031427.csv
+[2025-04-19 03:14:27.545382] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:27.835826] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:27.835904] 📦 Vaulting metadata...
+[2025-04-19 03:14:27.844991] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031427.csv
+[2025-04-19 03:14:27.845079] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:28.139840] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:28.139911] 📦 Vaulting metadata...
+[2025-04-19 03:14:28.148765] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031428.csv
+[2025-04-19 03:14:28.148845] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:28.428046] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:28.428117] 📦 Vaulting metadata...
+[2025-04-19 03:14:28.436098] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031428.csv
+[2025-04-19 03:14:28.436172] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:28.726973] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:28.727048] 📦 Vaulting metadata...
+[2025-04-19 03:14:28.735396] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031428.csv
+[2025-04-19 03:14:28.735478] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:29.031036] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:29.031114] 📦 Vaulting metadata...
+[2025-04-19 03:14:29.039426] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031429.csv
+[2025-04-19 03:14:29.039505] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:29.338106] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:29.338177] 📦 Vaulting metadata...
+[2025-04-19 03:14:29.346165] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031429.csv
+[2025-04-19 03:14:29.346242] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:29.629815] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:29.629889] 📦 Vaulting metadata...
+[2025-04-19 03:14:29.638286] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031429.csv
+[2025-04-19 03:14:29.638367] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:29.921102] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:29.921174] 📦 Vaulting metadata...
+[2025-04-19 03:14:29.929458] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031429.csv
+[2025-04-19 03:14:29.929555] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:30.215584] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:30.215660] 📦 Vaulting metadata...
+[2025-04-19 03:14:30.223878] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031430.csv
+[2025-04-19 03:14:30.223961] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:30.513044] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:30.513126] 📦 Vaulting metadata...
+[2025-04-19 03:14:30.521012] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031430.csv
+[2025-04-19 03:14:30.521095] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:30.807920] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:30.807995] 📦 Vaulting metadata...
+[2025-04-19 03:14:30.816094] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031430.csv
+[2025-04-19 03:14:30.816175] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:31.103554] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:31.103629] 📦 Vaulting metadata...
+[2025-04-19 03:14:31.112371] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031431.csv
+[2025-04-19 03:14:31.112452] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:31.405705] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:31.405784] 📦 Vaulting metadata...
+[2025-04-19 03:14:31.413707] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031431.csv
+[2025-04-19 03:14:31.413790] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:31.703347] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:31.703433] 📦 Vaulting metadata...
+[2025-04-19 03:14:31.711576] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031431.csv
+[2025-04-19 03:14:31.711661] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:32.002784] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:32.002860] 📦 Vaulting metadata...
+[2025-04-19 03:14:32.011117] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031432.csv
+[2025-04-19 03:14:32.011200] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:32.307199] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:32.307279] 📦 Vaulting metadata...
+[2025-04-19 03:14:32.315494] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031432.csv
+[2025-04-19 03:14:32.315577] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:32.618995] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:32.619073] 📦 Vaulting metadata...
+[2025-04-19 03:14:32.627955] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031432.csv
+[2025-04-19 03:14:32.628042] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:32.934691] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:32.934770] 📦 Vaulting metadata...
+[2025-04-19 03:14:32.943969] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031432.csv
+[2025-04-19 03:14:32.944065] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:33.258046] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:33.258123] 📦 Vaulting metadata...
+[2025-04-19 03:14:33.266976] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031433.csv
+[2025-04-19 03:14:33.267064] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:33.573938] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:33.574021] 📦 Vaulting metadata...
+[2025-04-19 03:14:33.582961] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031433.csv
+[2025-04-19 03:14:33.583047] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:33.883282] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:33.883363] 📦 Vaulting metadata...
+[2025-04-19 03:14:33.892487] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031433.csv
+[2025-04-19 03:14:33.892575] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:34.191150] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:34.191234] 📦 Vaulting metadata...
+[2025-04-19 03:14:34.199953] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031434.csv
+[2025-04-19 03:14:34.200041] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:34.503491] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:34.503574] 📦 Vaulting metadata...
+[2025-04-19 03:14:34.511985] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031434.csv
+[2025-04-19 03:14:34.512073] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:34.813444] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:34.813523] 📦 Vaulting metadata...
+[2025-04-19 03:14:34.822317] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031434.csv
+[2025-04-19 03:14:34.822403] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:35.126680] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:35.126765] 📦 Vaulting metadata...
+[2025-04-19 03:14:35.135960] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031435.csv
+[2025-04-19 03:14:35.136056] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:35.444837] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:35.444919] 📦 Vaulting metadata...
+[2025-04-19 03:14:35.453960] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031435.csv
+[2025-04-19 03:14:35.454047] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:35.758323] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:35.758406] 📦 Vaulting metadata...
+[2025-04-19 03:14:35.767472] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031435.csv
+[2025-04-19 03:14:35.767559] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:36.073607] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:36.073691] 📦 Vaulting metadata...
+[2025-04-19 03:14:36.082991] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031436.csv
+[2025-04-19 03:14:36.083083] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:36.394207] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:36.394292] 📦 Vaulting metadata...
+[2025-04-19 03:14:36.403347] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031436.csv
+[2025-04-19 03:14:36.403454] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:36.714013] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:36.714096] 📦 Vaulting metadata...
+[2025-04-19 03:14:36.723411] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031436.csv
+[2025-04-19 03:14:36.723502] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:37.034898] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:37.034982] 📦 Vaulting metadata...
+[2025-04-19 03:14:37.044337] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031437.csv
+[2025-04-19 03:14:37.044428] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:37.358735] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:37.358831] 📦 Vaulting metadata...
+[2025-04-19 03:14:37.369885] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031437.csv
+[2025-04-19 03:14:37.369979] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:37.683564] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:37.683651] 📦 Vaulting metadata...
+[2025-04-19 03:14:37.693186] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031437.csv
+[2025-04-19 03:14:37.693277] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:38.009302] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:38.009393] 📦 Vaulting metadata...
+[2025-04-19 03:14:38.019403] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031438.csv
+[2025-04-19 03:14:38.019496] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:38.336533] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:38.336644] 📦 Vaulting metadata...
+[2025-04-19 03:14:38.347336] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031438.csv
+[2025-04-19 03:14:38.347443] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:38.665226] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:38.665314] 📦 Vaulting metadata...
+[2025-04-19 03:14:38.675400] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031438.csv
+[2025-04-19 03:14:38.675494] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:39.018356] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:39.018444] 📦 Vaulting metadata...
+[2025-04-19 03:14:39.028339] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031439.csv
+[2025-04-19 03:14:39.028435] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:39.360852] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:39.360949] 📦 Vaulting metadata...
+[2025-04-19 03:14:39.370903] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031439.csv
+[2025-04-19 03:14:39.371008] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:39.705724] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:39.705812] 📦 Vaulting metadata...
+[2025-04-19 03:14:39.715255] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031439.csv
+[2025-04-19 03:14:39.715356] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:40.037296] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:40.037386] 📦 Vaulting metadata...
+[2025-04-19 03:14:40.047293] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031440.csv
+[2025-04-19 03:14:40.047394] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:40.380777] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:40.380875] 📦 Vaulting metadata...
+[2025-04-19 03:14:40.392877] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031440.csv
+[2025-04-19 03:14:40.392992] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:40.717231] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:40.717329] 📦 Vaulting metadata...
+[2025-04-19 03:14:40.727449] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031440.csv
+[2025-04-19 03:14:40.727547] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:41.065854] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:41.065951] 📦 Vaulting metadata...
+[2025-04-19 03:14:41.076851] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031441.csv
+[2025-04-19 03:14:41.076970] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:41.408436] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:41.408528] 📦 Vaulting metadata...
+[2025-04-19 03:14:41.418562] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031441.csv
+[2025-04-19 03:14:41.418665] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:41.756631] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:41.756721] 📦 Vaulting metadata...
+[2025-04-19 03:14:41.766707] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031441.csv
+[2025-04-19 03:14:41.766812] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:42.097084] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:42.097180] 📦 Vaulting metadata...
+[2025-04-19 03:14:42.109292] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031442.csv
+[2025-04-19 03:14:42.109398] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:42.443811] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:42.443908] 📦 Vaulting metadata...
+[2025-04-19 03:14:42.454715] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031442.csv
+[2025-04-19 03:14:42.454815] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:42.784304] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:42.784401] 📦 Vaulting metadata...
+[2025-04-19 03:14:42.794703] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031442.csv
+[2025-04-19 03:14:42.794837] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:43.138583] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:43.138677] 📦 Vaulting metadata...
+[2025-04-19 03:14:43.149015] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031443.csv
+[2025-04-19 03:14:43.149110] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:43.484698] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:43.484787] 📦 Vaulting metadata...
+[2025-04-19 03:14:43.496567] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031443.csv
+[2025-04-19 03:14:43.496665] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:43.832143] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:43.832233] 📦 Vaulting metadata...
+[2025-04-19 03:14:43.842119] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031443.csv
+[2025-04-19 03:14:43.842208] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:44.178221] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:44.178311] 📦 Vaulting metadata...
+[2025-04-19 03:14:44.188677] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031444.csv
+[2025-04-19 03:14:44.188771] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:44.527309] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:44.527400] 📦 Vaulting metadata...
+[2025-04-19 03:14:44.537578] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031444.csv
+[2025-04-19 03:14:44.537673] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:44.878892] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:44.878983] 📦 Vaulting metadata...
+[2025-04-19 03:14:44.889016] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031444.csv
+[2025-04-19 03:14:44.889109] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:45.229189] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:45.229280] 📦 Vaulting metadata...
+[2025-04-19 03:14:45.239671] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031445.csv
+[2025-04-19 03:14:45.239765] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:45.582163] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:45.582256] 📦 Vaulting metadata...
+[2025-04-19 03:14:45.594142] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031445.csv
+[2025-04-19 03:14:45.594241] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:45.949562] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:45.949667] 📦 Vaulting metadata...
+[2025-04-19 03:14:45.960570] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031445.csv
+[2025-04-19 03:14:45.960677] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:46.305012] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:46.305105] 📦 Vaulting metadata...
+[2025-04-19 03:14:46.315614] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031446.csv
+[2025-04-19 03:14:46.315708] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:46.663424] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:46.663517] 📦 Vaulting metadata...
+[2025-04-19 03:14:46.674345] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031446.csv
+[2025-04-19 03:14:46.674439] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:47.031024] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:47.031115] 📦 Vaulting metadata...
+[2025-04-19 03:14:47.041617] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031447.csv
+[2025-04-19 03:14:47.041711] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:47.399074] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:47.399168] 📦 Vaulting metadata...
+[2025-04-19 03:14:47.410442] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031447.csv
+[2025-04-19 03:14:47.410575] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:47.769518] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:47.769615] 📦 Vaulting metadata...
+[2025-04-19 03:14:47.779810] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031447.csv
+[2025-04-19 03:14:47.779910] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:48.132315] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:48.132410] 📦 Vaulting metadata...
+[2025-04-19 03:14:48.143836] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031448.csv
+[2025-04-19 03:14:48.143937] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:48.499165] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:48.499262] 📦 Vaulting metadata...
+[2025-04-19 03:14:48.510381] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031448.csv
+[2025-04-19 03:14:48.510492] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:48.866257] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:48.866359] 📦 Vaulting metadata...
+[2025-04-19 03:14:48.877698] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031448.csv
+[2025-04-19 03:14:48.877815] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:49.228747] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:49.228846] 📦 Vaulting metadata...
+[2025-04-19 03:14:49.240562] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031449.csv
+[2025-04-19 03:14:49.240661] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:49.598700] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:49.598798] 📦 Vaulting metadata...
+[2025-04-19 03:14:49.610131] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031449.csv
+[2025-04-19 03:14:49.610232] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:49.968894] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:49.968997] 📦 Vaulting metadata...
+[2025-04-19 03:14:49.980235] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031449.csv
+[2025-04-19 03:14:49.980339] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:50.336186] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:50.336353] 📦 Vaulting metadata...
+[2025-04-19 03:14:50.349093] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031450.csv
+[2025-04-19 03:14:50.349199] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:50.719274] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:50.719379] 📦 Vaulting metadata...
+[2025-04-19 03:14:50.731322] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031450.csv
+[2025-04-19 03:14:50.731441] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:51.096066] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:51.096177] 📦 Vaulting metadata...
+[2025-04-19 03:14:51.111171] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031451.csv
+[2025-04-19 03:14:51.111304] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:51.477244] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:51.477342] 📦 Vaulting metadata...
+[2025-04-19 03:14:51.488527] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031451.csv
+[2025-04-19 03:14:51.488628] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:51.849669] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:51.849770] 📦 Vaulting metadata...
+[2025-04-19 03:14:51.860989] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031451.csv
+[2025-04-19 03:14:51.861089] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:52.226749] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:52.226850] 📦 Vaulting metadata...
+[2025-04-19 03:14:52.238413] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031452.csv
+[2025-04-19 03:14:52.238514] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:52.606094] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:52.606198] 📦 Vaulting metadata...
+[2025-04-19 03:14:52.617805] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031452.csv
+[2025-04-19 03:14:52.617915] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:52.993957] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:52.994059] 📦 Vaulting metadata...
+[2025-04-19 03:14:53.005147] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031452.csv
+[2025-04-19 03:14:53.005255] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:53.386755] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:53.386873] 📦 Vaulting metadata...
+[2025-04-19 03:14:53.399430] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031453.csv
+[2025-04-19 03:14:53.399556] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:53.804809] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:53.804917] 📦 Vaulting metadata...
+[2025-04-19 03:14:53.817105] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031453.csv
+[2025-04-19 03:14:53.817244] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:54.190161] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:54.190263] 📦 Vaulting metadata...
+[2025-04-19 03:14:54.203070] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031454.csv
+[2025-04-19 03:14:54.203186] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:54.601594] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:54.601703] 📦 Vaulting metadata...
+[2025-04-19 03:14:54.613843] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031454.csv
+[2025-04-19 03:14:54.613953] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:54.989041] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:54.989145] 📦 Vaulting metadata...
+[2025-04-19 03:14:54.999917] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031454.csv
+[2025-04-19 03:14:55.000030] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:14:55.373388] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:14:55.373493] 📦 Vaulting metadata...
+[2025-04-19 03:14:55.385363] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031455.csv
+[2025-04-19 03:14:55.385473] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:10.801271] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:10.801314] 📦 Vaulting metadata...
+[2025-04-19 03:18:10.803925] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031810.csv
+[2025-04-19 03:18:10.803974] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:10.994189] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:10.994225] 📦 Vaulting metadata...
+[2025-04-19 03:18:10.996244] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031810.csv
+[2025-04-19 03:18:10.996285] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:11.168832] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:11.168865] 📦 Vaulting metadata...
+[2025-04-19 03:18:11.170976] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031811.csv
+[2025-04-19 03:18:11.171033] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:11.331928] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:11.331960] 📦 Vaulting metadata...
+[2025-04-19 03:18:11.334108] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031811.csv
+[2025-04-19 03:18:11.334161] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:11.496417] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:11.496451] 📦 Vaulting metadata...
+[2025-04-19 03:18:11.498601] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031811.csv
+[2025-04-19 03:18:11.498654] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:11.663022] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:11.663054] 📦 Vaulting metadata...
+[2025-04-19 03:18:11.665332] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031811.csv
+[2025-04-19 03:18:11.665375] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:11.840468] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:11.840506] 📦 Vaulting metadata...
+[2025-04-19 03:18:11.842717] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031811.csv
+[2025-04-19 03:18:11.842761] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.010638] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.010675] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.012950] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.012997] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.196885] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.196923] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.199475] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.199533] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.384014] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.384053] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.386459] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.386516] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.565954] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.565992] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.568394] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.568451] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.746519] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.746554] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.748823] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.748866] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:12.939816] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:12.939856] 📦 Vaulting metadata...
+[2025-04-19 03:18:12.942561] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031812.csv
+[2025-04-19 03:18:12.942623] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:13.137709] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:13.137747] 📦 Vaulting metadata...
+[2025-04-19 03:18:13.140337] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031813.csv
+[2025-04-19 03:18:13.140382] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:13.328614] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:13.328649] 📦 Vaulting metadata...
+[2025-04-19 03:18:13.331113] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031813.csv
+[2025-04-19 03:18:13.331158] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:13.518121] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:13.518157] 📦 Vaulting metadata...
+[2025-04-19 03:18:13.520550] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031813.csv
+[2025-04-19 03:18:13.520598] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:13.710951] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:13.710992] 📦 Vaulting metadata...
+[2025-04-19 03:18:13.713590] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031813.csv
+[2025-04-19 03:18:13.713647] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:13.919784] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:13.919825] 📦 Vaulting metadata...
+[2025-04-19 03:18:13.922499] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031813.csv
+[2025-04-19 03:18:13.922554] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:14.124497] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:14.124536] 📦 Vaulting metadata...
+[2025-04-19 03:18:14.127236] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031814.csv
+[2025-04-19 03:18:14.127293] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:14.324162] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:14.324200] 📦 Vaulting metadata...
+[2025-04-19 03:18:14.326777] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031814.csv
+[2025-04-19 03:18:14.326824] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:14.526508] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:14.526546] 📦 Vaulting metadata...
+[2025-04-19 03:18:14.529191] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031814.csv
+[2025-04-19 03:18:14.529240] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:14.730155] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:14.730191] 📦 Vaulting metadata...
+[2025-04-19 03:18:14.732876] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031814.csv
+[2025-04-19 03:18:14.732937] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:14.937707] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:14.937741] 📦 Vaulting metadata...
+[2025-04-19 03:18:14.940827] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031814.csv
+[2025-04-19 03:18:14.940886] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:15.163732] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:15.163770] 📦 Vaulting metadata...
+[2025-04-19 03:18:15.166643] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031815.csv
+[2025-04-19 03:18:15.166689] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:15.388871] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:15.388910] 📦 Vaulting metadata...
+[2025-04-19 03:18:15.391707] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031815.csv
+[2025-04-19 03:18:15.391754] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:15.604560] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:15.604597] 📦 Vaulting metadata...
+[2025-04-19 03:18:15.607399] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031815.csv
+[2025-04-19 03:18:15.607453] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:15.824111] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:15.824146] 📦 Vaulting metadata...
+[2025-04-19 03:18:15.827013] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031815.csv
+[2025-04-19 03:18:15.827070] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:16.057821] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:16.057856] 📦 Vaulting metadata...
+[2025-04-19 03:18:16.060670] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031816.csv
+[2025-04-19 03:18:16.060730] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:16.280072] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:16.280110] 📦 Vaulting metadata...
+[2025-04-19 03:18:16.282996] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031816.csv
+[2025-04-19 03:18:16.283075] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:16.504793] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:16.504830] 📦 Vaulting metadata...
+[2025-04-19 03:18:16.507760] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031816.csv
+[2025-04-19 03:18:16.507820] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:16.731993] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:16.732029] 📦 Vaulting metadata...
+[2025-04-19 03:18:16.734966] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031816.csv
+[2025-04-19 03:18:16.735022] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:16.964132] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:16.964167] 📦 Vaulting metadata...
+[2025-04-19 03:18:16.967092] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031816.csv
+[2025-04-19 03:18:16.967139] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:17.195853] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:17.195891] 📦 Vaulting metadata...
+[2025-04-19 03:18:17.198947] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031817.csv
+[2025-04-19 03:18:17.199006] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:17.430649] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:17.430686] 📦 Vaulting metadata...
+[2025-04-19 03:18:17.433640] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031817.csv
+[2025-04-19 03:18:17.433704] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:17.667837] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:17.667877] 📦 Vaulting metadata...
+[2025-04-19 03:18:17.670888] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031817.csv
+[2025-04-19 03:18:17.670940] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:17.908057] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:17.908095] 📦 Vaulting metadata...
+[2025-04-19 03:18:17.911349] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031817.csv
+[2025-04-19 03:18:17.911403] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:18.153861] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:18.153901] 📦 Vaulting metadata...
+[2025-04-19 03:18:18.157109] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031818.csv
+[2025-04-19 03:18:18.157160] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:18.399218] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:18.399256] 📦 Vaulting metadata...
+[2025-04-19 03:18:18.402421] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031818.csv
+[2025-04-19 03:18:18.402482] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:18.660700] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:18.660736] 📦 Vaulting metadata...
+[2025-04-19 03:18:18.663981] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031818.csv
+[2025-04-19 03:18:18.664031] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:18.908349] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:18.908390] 📦 Vaulting metadata...
+[2025-04-19 03:18:18.911546] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031818.csv
+[2025-04-19 03:18:18.911599] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:19.159860] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:19.159899] 📦 Vaulting metadata...
+[2025-04-19 03:18:19.163152] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031819.csv
+[2025-04-19 03:18:19.163200] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:19.415599] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:19.415637] 📦 Vaulting metadata...
+[2025-04-19 03:18:19.418874] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031819.csv
+[2025-04-19 03:18:19.418941] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:19.673171] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:19.673213] 📦 Vaulting metadata...
+[2025-04-19 03:18:19.676507] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031819.csv
+[2025-04-19 03:18:19.676560] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:19.932816] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:19.932856] 📦 Vaulting metadata...
+[2025-04-19 03:18:19.936140] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031819.csv
+[2025-04-19 03:18:19.936190] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:20.194145] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:20.194188] 📦 Vaulting metadata...
+[2025-04-19 03:18:20.197650] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031820.csv
+[2025-04-19 03:18:20.197702] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:20.462145] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:20.462184] 📦 Vaulting metadata...
+[2025-04-19 03:18:20.465608] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031820.csv
+[2025-04-19 03:18:20.465659] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:20.741962] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:20.742001] 📦 Vaulting metadata...
+[2025-04-19 03:18:20.745462] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031820.csv
+[2025-04-19 03:18:20.745524] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:21.015612] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:21.015651] 📦 Vaulting metadata...
+[2025-04-19 03:18:21.019234] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031821.csv
+[2025-04-19 03:18:21.019288] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:21.291288] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:21.291330] 📦 Vaulting metadata...
+[2025-04-19 03:18:21.294921] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031821.csv
+[2025-04-19 03:18:21.294983] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:21.568934] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:21.568981] 📦 Vaulting metadata...
+[2025-04-19 03:18:21.572499] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031821.csv
+[2025-04-19 03:18:21.572555] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:21.849381] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:21.849425] 📦 Vaulting metadata...
+[2025-04-19 03:18:21.853012] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031821.csv
+[2025-04-19 03:18:21.853069] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:22.131737] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:22.131780] 📦 Vaulting metadata...
+[2025-04-19 03:18:22.135464] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031822.csv
+[2025-04-19 03:18:22.135520] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:22.416785] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:22.416826] 📦 Vaulting metadata...
+[2025-04-19 03:18:22.420516] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031822.csv
+[2025-04-19 03:18:22.420581] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:22.706438] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:22.706479] 📦 Vaulting metadata...
+[2025-04-19 03:18:22.710115] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031822.csv
+[2025-04-19 03:18:22.710178] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:22.998629] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:22.998671] 📦 Vaulting metadata...
+[2025-04-19 03:18:23.002351] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031822.csv
+[2025-04-19 03:18:23.002415] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:23.291651] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:23.291692] 📦 Vaulting metadata...
+[2025-04-19 03:18:23.295316] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031823.csv
+[2025-04-19 03:18:23.295389] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:23.588838] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:23.588884] 📦 Vaulting metadata...
+[2025-04-19 03:18:23.592869] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031823.csv
+[2025-04-19 03:18:23.592933] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:23.887222] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:23.887268] 📦 Vaulting metadata...
+[2025-04-19 03:18:23.890943] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031823.csv
+[2025-04-19 03:18:23.891000] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:24.194541] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:24.194591] 📦 Vaulting metadata...
+[2025-04-19 03:18:24.198796] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031824.csv
+[2025-04-19 03:18:24.198855] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:24.514500] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:24.514545] 📦 Vaulting metadata...
+[2025-04-19 03:18:24.518473] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031824.csv
+[2025-04-19 03:18:24.518531] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:24.831827] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:24.831881] 📦 Vaulting metadata...
+[2025-04-19 03:18:24.836062] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031824.csv
+[2025-04-19 03:18:24.836132] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:25.156107] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:25.156159] 📦 Vaulting metadata...
+[2025-04-19 03:18:25.160478] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031825.csv
+[2025-04-19 03:18:25.160543] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:25.482599] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:25.482645] 📦 Vaulting metadata...
+[2025-04-19 03:18:25.486707] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031825.csv
+[2025-04-19 03:18:25.486767] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:25.799466] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:25.799516] 📦 Vaulting metadata...
+[2025-04-19 03:18:25.803447] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031825.csv
+[2025-04-19 03:18:25.803514] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:26.122386] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:26.122430] 📦 Vaulting metadata...
+[2025-04-19 03:18:26.126284] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031826.csv
+[2025-04-19 03:18:26.126355] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:26.445773] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:26.445819] 📦 Vaulting metadata...
+[2025-04-19 03:18:26.449838] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031826.csv
+[2025-04-19 03:18:26.449903] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:26.771300] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:26.771346] 📦 Vaulting metadata...
+[2025-04-19 03:18:26.775447] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031826.csv
+[2025-04-19 03:18:26.775505] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:27.100561] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:27.100606] 📦 Vaulting metadata...
+[2025-04-19 03:18:27.104685] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031827.csv
+[2025-04-19 03:18:27.104751] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:27.430564] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:27.430608] 📦 Vaulting metadata...
+[2025-04-19 03:18:27.434734] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031827.csv
+[2025-04-19 03:18:27.434805] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:27.763062] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:27.763107] 📦 Vaulting metadata...
+[2025-04-19 03:18:27.767365] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031827.csv
+[2025-04-19 03:18:27.767433] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:28.101265] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:28.101313] 📦 Vaulting metadata...
+[2025-04-19 03:18:28.105608] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031828.csv
+[2025-04-19 03:18:28.105667] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:28.442329] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:28.442379] 📦 Vaulting metadata...
+[2025-04-19 03:18:28.446691] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031828.csv
+[2025-04-19 03:18:28.446752] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:28.785213] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:28.785264] 📦 Vaulting metadata...
+[2025-04-19 03:18:28.789470] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031828.csv
+[2025-04-19 03:18:28.789533] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:29.161127] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:29.161185] 📦 Vaulting metadata...
+[2025-04-19 03:18:29.166245] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031829.csv
+[2025-04-19 03:18:29.166327] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:29.709252] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:29.709483] 📦 Vaulting metadata...
+[2025-04-19 03:18:29.717112] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031829.csv
+[2025-04-19 03:18:29.717528] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:30.127047] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:30.127102] 📦 Vaulting metadata...
+[2025-04-19 03:18:30.131645] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031830.csv
+[2025-04-19 03:18:30.131710] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:30.504437] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:30.504487] 📦 Vaulting metadata...
+[2025-04-19 03:18:30.509015] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031830.csv
+[2025-04-19 03:18:30.509085] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:30.866879] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:30.866929] 📦 Vaulting metadata...
+[2025-04-19 03:18:30.871511] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031830.csv
+[2025-04-19 03:18:30.871577] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:31.273521] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:31.273582] 📦 Vaulting metadata...
+[2025-04-19 03:18:31.278483] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031831.csv
+[2025-04-19 03:18:31.278561] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:31.683708] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:31.683757] 📦 Vaulting metadata...
+[2025-04-19 03:18:31.688214] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031831.csv
+[2025-04-19 03:18:31.688281] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:32.059964] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:32.060013] 📦 Vaulting metadata...
+[2025-04-19 03:18:32.064711] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031832.csv
+[2025-04-19 03:18:32.064782] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:32.434784] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:32.434838] 📦 Vaulting metadata...
+[2025-04-19 03:18:32.439582] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031832.csv
+[2025-04-19 03:18:32.439645] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:32.811842] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:32.811890] 📦 Vaulting metadata...
+[2025-04-19 03:18:32.816620] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031832.csv
+[2025-04-19 03:18:32.816682] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:33.211633] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:33.211683] 📦 Vaulting metadata...
+[2025-04-19 03:18:33.216484] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031833.csv
+[2025-04-19 03:18:33.216567] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:33.604625] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:33.604680] 📦 Vaulting metadata...
+[2025-04-19 03:18:33.609552] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031833.csv
+[2025-04-19 03:18:33.609619] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:33.994318] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:33.994368] 📦 Vaulting metadata...
+[2025-04-19 03:18:33.999263] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031833.csv
+[2025-04-19 03:18:33.999334] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:34.382943] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:34.382993] 📦 Vaulting metadata...
+[2025-04-19 03:18:34.387996] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031834.csv
+[2025-04-19 03:18:34.388057] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:34.788063] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:34.788122] 📦 Vaulting metadata...
+[2025-04-19 03:18:34.793096] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031834.csv
+[2025-04-19 03:18:34.793164] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:35.200810] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:35.200863] 📦 Vaulting metadata...
+[2025-04-19 03:18:35.205896] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031835.csv
+[2025-04-19 03:18:35.205958] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:35.603847] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:35.603901] 📦 Vaulting metadata...
+[2025-04-19 03:18:35.608819] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031835.csv
+[2025-04-19 03:18:35.608882] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:36.008229] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:36.008279] 📦 Vaulting metadata...
+[2025-04-19 03:18:36.013698] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031836.csv
+[2025-04-19 03:18:36.013763] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:36.420252] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:36.420306] 📦 Vaulting metadata...
+[2025-04-19 03:18:36.425418] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031836.csv
+[2025-04-19 03:18:36.425498] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:36.869619] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:36.869671] 📦 Vaulting metadata...
+[2025-04-19 03:18:36.875021] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031836.csv
+[2025-04-19 03:18:36.875098] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:37.292034] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:37.292094] 📦 Vaulting metadata...
+[2025-04-19 03:18:37.298199] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031837.csv
+[2025-04-19 03:18:37.298278] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:37.723489] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:37.723544] 📦 Vaulting metadata...
+[2025-04-19 03:18:37.728966] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031837.csv
+[2025-04-19 03:18:37.729034] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:38.145745] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:38.145799] 📦 Vaulting metadata...
+[2025-04-19 03:18:38.150943] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031838.csv
+[2025-04-19 03:18:38.151011] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:38.573467] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:38.573529] 📦 Vaulting metadata...
+[2025-04-19 03:18:38.578950] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031838.csv
+[2025-04-19 03:18:38.579036] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:39.017883] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:39.017944] 📦 Vaulting metadata...
+[2025-04-19 03:18:39.023647] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031839.csv
+[2025-04-19 03:18:39.023749] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:39.460447] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:39.460500] 📦 Vaulting metadata...
+[2025-04-19 03:18:39.466040] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031839.csv
+[2025-04-19 03:18:39.466119] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:39.914643] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:39.914702] 📦 Vaulting metadata...
+[2025-04-19 03:18:39.919870] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031839.csv
+[2025-04-19 03:18:39.919950] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:40.359897] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:40.359952] 📦 Vaulting metadata...
+[2025-04-19 03:18:40.365562] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031840.csv
+[2025-04-19 03:18:40.365643] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:40.806598] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:40.806658] 📦 Vaulting metadata...
+[2025-04-19 03:18:40.811688] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031840.csv
+[2025-04-19 03:18:40.811756] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:41.267357] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:41.267417] 📦 Vaulting metadata...
+[2025-04-19 03:18:41.272901] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031841.csv
+[2025-04-19 03:18:41.272984] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:41.720345] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:41.720404] 📦 Vaulting metadata...
+[2025-04-19 03:18:41.725869] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031841.csv
+[2025-04-19 03:18:41.725940] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:42.191998] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:42.192056] 📦 Vaulting metadata...
+[2025-04-19 03:18:42.197738] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031842.csv
+[2025-04-19 03:18:42.197807] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:42.673947] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:42.674005] 📦 Vaulting metadata...
+[2025-04-19 03:18:42.679900] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031842.csv
+[2025-04-19 03:18:42.679987] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:43.136625] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:43.136681] 📦 Vaulting metadata...
+[2025-04-19 03:18:43.143077] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031843.csv
+[2025-04-19 03:18:43.143146] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:43.609702] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:43.609759] 📦 Vaulting metadata...
+[2025-04-19 03:18:43.615599] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031843.csv
+[2025-04-19 03:18:43.615679] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:44.080240] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:44.080298] 📦 Vaulting metadata...
+[2025-04-19 03:18:44.086151] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031844.csv
+[2025-04-19 03:18:44.086219] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:44.552884] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:44.552940] 📦 Vaulting metadata...
+[2025-04-19 03:18:44.558686] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031844.csv
+[2025-04-19 03:18:44.558757] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:45.028259] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:45.028315] 📦 Vaulting metadata...
+[2025-04-19 03:18:45.034283] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031845.csv
+[2025-04-19 03:18:45.034365] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:45.514564] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:45.514622] 📦 Vaulting metadata...
+[2025-04-19 03:18:45.520577] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031845.csv
+[2025-04-19 03:18:45.520647] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:45.999554] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:45.999611] 📦 Vaulting metadata...
+[2025-04-19 03:18:46.005411] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031845.csv
+[2025-04-19 03:18:46.005508] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:46.490075] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:46.490133] 📦 Vaulting metadata...
+[2025-04-19 03:18:46.496059] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031846.csv
+[2025-04-19 03:18:46.496135] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:47.020744] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:47.020806] 📦 Vaulting metadata...
+[2025-04-19 03:18:47.026944] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031847.csv
+[2025-04-19 03:18:47.027037] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:47.536381] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:47.536441] 📦 Vaulting metadata...
+[2025-04-19 03:18:47.542713] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031847.csv
+[2025-04-19 03:18:47.542791] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:48.037892] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:48.037953] 📦 Vaulting metadata...
+[2025-04-19 03:18:48.044132] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031848.csv
+[2025-04-19 03:18:48.044213] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:48.544200] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:48.544261] 📦 Vaulting metadata...
+[2025-04-19 03:18:48.550701] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031848.csv
+[2025-04-19 03:18:48.550780] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:49.052396] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:49.052455] 📦 Vaulting metadata...
+[2025-04-19 03:18:49.058740] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031849.csv
+[2025-04-19 03:18:49.058822] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:49.560260] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:49.560321] 📦 Vaulting metadata...
+[2025-04-19 03:18:49.566350] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031849.csv
+[2025-04-19 03:18:49.566430] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:50.075151] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:50.075210] 📦 Vaulting metadata...
+[2025-04-19 03:18:50.081530] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031850.csv
+[2025-04-19 03:18:50.081613] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:50.594011] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:50.594073] 📦 Vaulting metadata...
+[2025-04-19 03:18:50.600487] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031850.csv
+[2025-04-19 03:18:50.600563] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:51.116110] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:51.116169] 📦 Vaulting metadata...
+[2025-04-19 03:18:51.122525] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031851.csv
+[2025-04-19 03:18:51.122599] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:51.644233] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:51.644293] 📦 Vaulting metadata...
+[2025-04-19 03:18:51.650125] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031851.csv
+[2025-04-19 03:18:51.650201] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:52.174226] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:52.174292] 📦 Vaulting metadata...
+[2025-04-19 03:18:52.180872] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031852.csv
+[2025-04-19 03:18:52.180950] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:52.724060] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:52.724127] 📦 Vaulting metadata...
+[2025-04-19 03:18:52.730599] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031852.csv
+[2025-04-19 03:18:52.730687] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:53.283191] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:53.283251] 📦 Vaulting metadata...
+[2025-04-19 03:18:53.289529] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031853.csv
+[2025-04-19 03:18:53.289620] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:53.834098] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:53.834165] 📦 Vaulting metadata...
+[2025-04-19 03:18:53.840866] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031853.csv
+[2025-04-19 03:18:53.840954] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:54.376964] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:54.377025] 📦 Vaulting metadata...
+[2025-04-19 03:18:54.384146] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031854.csv
+[2025-04-19 03:18:54.384229] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:54.931301] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:54.931365] 📦 Vaulting metadata...
+[2025-04-19 03:18:54.937894] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031854.csv
+[2025-04-19 03:18:54.937988] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:55.482177] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:55.482238] 📦 Vaulting metadata...
+[2025-04-19 03:18:55.489036] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031855.csv
+[2025-04-19 03:18:55.489123] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:56.036076] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:56.036144] 📦 Vaulting metadata...
+[2025-04-19 03:18:56.042803] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031856.csv
+[2025-04-19 03:18:56.042891] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:56.596544] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:56.596612] 📦 Vaulting metadata...
+[2025-04-19 03:18:56.603174] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031856.csv
+[2025-04-19 03:18:56.603267] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:57.163386] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:57.163488] 📦 Vaulting metadata...
+[2025-04-19 03:18:57.172520] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031857.csv
+[2025-04-19 03:18:57.172605] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:57.733997] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:57.734064] 📦 Vaulting metadata...
+[2025-04-19 03:18:57.740850] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031857.csv
+[2025-04-19 03:18:57.740925] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:58.327565] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:58.327639] 📦 Vaulting metadata...
+[2025-04-19 03:18:58.335574] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031858.csv
+[2025-04-19 03:18:58.335669] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:58.925732] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:58.925798] 📦 Vaulting metadata...
+[2025-04-19 03:18:58.932196] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031858.csv
+[2025-04-19 03:18:58.932276] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:18:59.513417] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:18:59.513489] 📦 Vaulting metadata...
+[2025-04-19 03:18:59.520693] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031859.csv
+[2025-04-19 03:18:59.520775] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:00.103413] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:00.103478] 📦 Vaulting metadata...
+[2025-04-19 03:19:00.111607] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031900.csv
+[2025-04-19 03:19:00.111686] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:00.712853] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:00.712921] 📦 Vaulting metadata...
+[2025-04-19 03:19:00.720919] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031900.csv
+[2025-04-19 03:19:00.721017] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:01.318224] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:01.318288] 📦 Vaulting metadata...
+[2025-04-19 03:19:01.325913] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031901.csv
+[2025-04-19 03:19:01.325997] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:01.913227] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:01.913292] 📦 Vaulting metadata...
+[2025-04-19 03:19:01.924377] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031901.csv
+[2025-04-19 03:19:01.924529] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:02.512137] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:02.512202] 📦 Vaulting metadata...
+[2025-04-19 03:19:02.520443] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031902.csv
+[2025-04-19 03:19:02.520534] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:03.115348] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:03.115412] 📦 Vaulting metadata...
+[2025-04-19 03:19:03.124214] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031903.csv
+[2025-04-19 03:19:03.124312] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:03.751382] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:03.751460] 📦 Vaulting metadata...
+[2025-04-19 03:19:03.760890] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031903.csv
+[2025-04-19 03:19:03.761017] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:04.376230] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:04.376295] 📦 Vaulting metadata...
+[2025-04-19 03:19:04.385729] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031904.csv
+[2025-04-19 03:19:04.385825] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:04.996209] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:04.996286] 📦 Vaulting metadata...
+[2025-04-19 03:19:05.006683] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031904.csv
+[2025-04-19 03:19:05.006797] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:05.646014] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:05.646093] 📦 Vaulting metadata...
+[2025-04-19 03:19:05.655140] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031905.csv
+[2025-04-19 03:19:05.655238] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:06.287370] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:06.287443] 📦 Vaulting metadata...
+[2025-04-19 03:19:06.296747] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031906.csv
+[2025-04-19 03:19:06.296846] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:06.929420] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:06.929496] 📦 Vaulting metadata...
+[2025-04-19 03:19:06.940534] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031906.csv
+[2025-04-19 03:19:06.940641] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:07.577418] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:07.577504] 📦 Vaulting metadata...
+[2025-04-19 03:19:07.585134] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031907.csv
+[2025-04-19 03:19:07.585245] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:08.222266] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:08.222345] 📦 Vaulting metadata...
+[2025-04-19 03:19:08.230971] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031908.csv
+[2025-04-19 03:19:08.231080] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:08.863810] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:08.863894] 📦 Vaulting metadata...
+[2025-04-19 03:19:08.872687] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031908.csv
+[2025-04-19 03:19:08.872790] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:09.511661] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:09.511745] 📦 Vaulting metadata...
+[2025-04-19 03:19:09.519949] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031909.csv
+[2025-04-19 03:19:09.520049] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:10.165212] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:10.165286] 📦 Vaulting metadata...
+[2025-04-19 03:19:10.173974] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031910.csv
+[2025-04-19 03:19:10.174086] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:10.818491] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:10.818573] 📦 Vaulting metadata...
+[2025-04-19 03:19:10.827389] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031910.csv
+[2025-04-19 03:19:10.827514] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:11.491247] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:11.491330] 📦 Vaulting metadata...
+[2025-04-19 03:19:11.499753] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031911.csv
+[2025-04-19 03:19:11.499858] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:12.160652] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:12.160735] 📦 Vaulting metadata...
+[2025-04-19 03:19:12.169383] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031912.csv
+[2025-04-19 03:19:12.169486] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:12.829778] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:12.829862] 📦 Vaulting metadata...
+[2025-04-19 03:19:12.838475] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031912.csv
+[2025-04-19 03:19:12.838587] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:13.517540] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:13.517623] 📦 Vaulting metadata...
+[2025-04-19 03:19:13.526664] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031913.csv
+[2025-04-19 03:19:13.526784] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:14.203710] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:14.203797] 📦 Vaulting metadata...
+[2025-04-19 03:19:14.212054] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031914.csv
+[2025-04-19 03:19:14.212161] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:14.903836] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:14.903923] 📦 Vaulting metadata...
+[2025-04-19 03:19:14.912587] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031914.csv
+[2025-04-19 03:19:14.912687] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:15.620278] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:15.620362] 📦 Vaulting metadata...
+[2025-04-19 03:19:15.628390] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031915.csv
+[2025-04-19 03:19:15.628509] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:16.311097] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:16.311182] 📦 Vaulting metadata...
+[2025-04-19 03:19:16.319790] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031916.csv
+[2025-04-19 03:19:16.319890] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:17.007303] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:17.007388] 📦 Vaulting metadata...
+[2025-04-19 03:19:17.015879] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031917.csv
+[2025-04-19 03:19:17.015995] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:17.721592] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:17.721688] 📦 Vaulting metadata...
+[2025-04-19 03:19:17.730336] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031917.csv
+[2025-04-19 03:19:17.730437] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:18.431076] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:18.431166] 📦 Vaulting metadata...
+[2025-04-19 03:19:18.439515] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031918.csv
+[2025-04-19 03:19:18.439611] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:19.144221] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:19.144305] 📦 Vaulting metadata...
+[2025-04-19 03:19:19.152778] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031919.csv
+[2025-04-19 03:19:19.152897] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:19.859036] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:19.859080] 📦 Vaulting metadata...
+[2025-04-19 03:19:19.862846] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031919.csv
+[2025-04-19 03:19:19.862901] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:19.870613] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:19.870695] 📦 Vaulting metadata...
+[2025-04-19 03:19:19.880181] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031919.csv
+[2025-04-19 03:19:19.880294] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:20.132008] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:20.132045] 📦 Vaulting metadata...
+[2025-04-19 03:19:20.140307] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031920.csv
+[2025-04-19 03:19:20.140371] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:20.323846] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:20.323880] 📦 Vaulting metadata...
+[2025-04-19 03:19:20.326502] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031920.csv
+[2025-04-19 03:19:20.326550] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:20.563816] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:20.563853] 📦 Vaulting metadata...
+[2025-04-19 03:19:20.566660] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031920.csv
+[2025-04-19 03:19:20.566723] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:20.814166] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:20.814200] 📦 Vaulting metadata...
+[2025-04-19 03:19:20.816793] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031920.csv
+[2025-04-19 03:19:20.816840] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:21.052686] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:21.052722] 📦 Vaulting metadata...
+[2025-04-19 03:19:21.055177] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031921.csv
+[2025-04-19 03:19:21.055230] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:21.293489] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:21.293524] 📦 Vaulting metadata...
+[2025-04-19 03:19:21.296669] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031921.csv
+[2025-04-19 03:19:21.296733] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:21.538052] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:21.538085] 📦 Vaulting metadata...
+[2025-04-19 03:19:21.540688] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031921.csv
+[2025-04-19 03:19:21.540729] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:21.788998] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:21.789032] 📦 Vaulting metadata...
+[2025-04-19 03:19:21.791689] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031921.csv
+[2025-04-19 03:19:21.791742] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:22.038843] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:22.038875] 📦 Vaulting metadata...
+[2025-04-19 03:19:22.042018] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031922.csv
+[2025-04-19 03:19:22.042070] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:22.296358] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:22.296393] 📦 Vaulting metadata...
+[2025-04-19 03:19:22.299064] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031922.csv
+[2025-04-19 03:19:22.299105] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:22.557143] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:22.557176] 📦 Vaulting metadata...
+[2025-04-19 03:19:22.559931] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031922.csv
+[2025-04-19 03:19:22.559982] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:22.817883] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:22.817918] 📦 Vaulting metadata...
+[2025-04-19 03:19:22.820646] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031922.csv
+[2025-04-19 03:19:22.820693] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:23.081185] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:23.081220] 📦 Vaulting metadata...
+[2025-04-19 03:19:23.083965] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031923.csv
+[2025-04-19 03:19:23.084014] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:23.352238] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:23.352274] 📦 Vaulting metadata...
+[2025-04-19 03:19:23.355161] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031923.csv
+[2025-04-19 03:19:23.355215] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:23.636733] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:23.636767] 📦 Vaulting metadata...
+[2025-04-19 03:19:23.639676] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031923.csv
+[2025-04-19 03:19:23.639729] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:23.907537] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:23.907572] 📦 Vaulting metadata...
+[2025-04-19 03:19:23.910446] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031923.csv
+[2025-04-19 03:19:23.910502] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:24.183217] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:24.183253] 📦 Vaulting metadata...
+[2025-04-19 03:19:24.186229] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031924.csv
+[2025-04-19 03:19:24.186277] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:24.478024] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:24.478059] 📦 Vaulting metadata...
+[2025-04-19 03:19:24.480944] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031924.csv
+[2025-04-19 03:19:24.480985] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:24.761097] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:24.761137] 📦 Vaulting metadata...
+[2025-04-19 03:19:24.764180] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031924.csv
+[2025-04-19 03:19:24.764225] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:25.046004] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:25.046037] 📦 Vaulting metadata...
+[2025-04-19 03:19:25.048961] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031925.csv
+[2025-04-19 03:19:25.049004] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:25.336635] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:25.336675] 📦 Vaulting metadata...
+[2025-04-19 03:19:25.339737] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031925.csv
+[2025-04-19 03:19:25.339784] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:25.630979] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:25.631016] 📦 Vaulting metadata...
+[2025-04-19 03:19:25.634045] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031925.csv
+[2025-04-19 03:19:25.634090] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:25.926573] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:25.926613] 📦 Vaulting metadata...
+[2025-04-19 03:19:25.929760] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031925.csv
+[2025-04-19 03:19:25.929808] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:26.231109] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:26.231148] 📦 Vaulting metadata...
+[2025-04-19 03:19:26.234332] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031926.csv
+[2025-04-19 03:19:26.234377] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:26.553993] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:26.554036] 📦 Vaulting metadata...
+[2025-04-19 03:19:26.557261] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031926.csv
+[2025-04-19 03:19:26.557310] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:26.863537] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:26.863575] 📦 Vaulting metadata...
+[2025-04-19 03:19:26.866750] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031926.csv
+[2025-04-19 03:19:26.866798] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:27.177643] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:27.177684] 📦 Vaulting metadata...
+[2025-04-19 03:19:27.181308] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031927.csv
+[2025-04-19 03:19:27.181355] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:27.500127] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:27.500173] 📦 Vaulting metadata...
+[2025-04-19 03:19:27.503613] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031927.csv
+[2025-04-19 03:19:27.503664] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:27.820560] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:27.820604] 📦 Vaulting metadata...
+[2025-04-19 03:19:27.823949] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031927.csv
+[2025-04-19 03:19:27.823997] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:28.143308] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:28.143349] 📦 Vaulting metadata...
+[2025-04-19 03:19:28.146761] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031928.csv
+[2025-04-19 03:19:28.146808] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:28.473196] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:28.473237] 📦 Vaulting metadata...
+[2025-04-19 03:19:28.476679] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031928.csv
+[2025-04-19 03:19:28.476729] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:28.802882] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:28.802926] 📦 Vaulting metadata...
+[2025-04-19 03:19:28.806298] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031928.csv
+[2025-04-19 03:19:28.806347] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:29.136287] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:29.136330] 📦 Vaulting metadata...
+[2025-04-19 03:19:29.139883] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031929.csv
+[2025-04-19 03:19:29.139936] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:29.477646] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:29.477690] 📦 Vaulting metadata...
+[2025-04-19 03:19:29.481233] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031929.csv
+[2025-04-19 03:19:29.481286] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:29.820325] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:29.820369] 📦 Vaulting metadata...
+[2025-04-19 03:19:29.823946] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031929.csv
+[2025-04-19 03:19:29.823995] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:30.167737] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:30.167776] 📦 Vaulting metadata...
+[2025-04-19 03:19:30.172200] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031930.csv
+[2025-04-19 03:19:30.172256] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:30.531180] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:30.531230] 📦 Vaulting metadata...
+[2025-04-19 03:19:30.535942] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031930.csv
+[2025-04-19 03:19:30.536054] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:30.897314] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:30.897360] 📦 Vaulting metadata...
+[2025-04-19 03:19:30.901093] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031930.csv
+[2025-04-19 03:19:30.901143] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:31.255016] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:31.255061] 📦 Vaulting metadata...
+[2025-04-19 03:19:31.258955] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031931.csv
+[2025-04-19 03:19:31.259009] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:31.622622] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:31.622673] 📦 Vaulting metadata...
+[2025-04-19 03:19:31.626950] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031931.csv
+[2025-04-19 03:19:31.627026] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:32.008203] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:32.008247] 📦 Vaulting metadata...
+[2025-04-19 03:19:32.012620] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031932.csv
+[2025-04-19 03:19:32.012704] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:32.391600] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:32.391643] 📦 Vaulting metadata...
+[2025-04-19 03:19:32.395474] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031932.csv
+[2025-04-19 03:19:32.395526] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:32.792241] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:32.792288] 📦 Vaulting metadata...
+[2025-04-19 03:19:32.796739] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031932.csv
+[2025-04-19 03:19:32.796790] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:33.171898] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:33.171950] 📦 Vaulting metadata...
+[2025-04-19 03:19:33.175856] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031933.csv
+[2025-04-19 03:19:33.175920] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:33.562636] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:33.562688] 📦 Vaulting metadata...
+[2025-04-19 03:19:33.566639] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031933.csv
+[2025-04-19 03:19:33.566689] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:33.953767] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:33.953813] 📦 Vaulting metadata...
+[2025-04-19 03:19:33.957982] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031933.csv
+[2025-04-19 03:19:33.958037] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:34.350445] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:34.350493] 📦 Vaulting metadata...
+[2025-04-19 03:19:34.355003] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031934.csv
+[2025-04-19 03:19:34.355072] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:34.755602] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:34.755646] 📦 Vaulting metadata...
+[2025-04-19 03:19:34.759705] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031934.csv
+[2025-04-19 03:19:34.759761] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:35.158596] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:35.158642] 📦 Vaulting metadata...
+[2025-04-19 03:19:35.162897] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031935.csv
+[2025-04-19 03:19:35.162953] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:35.568598] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:35.568642] 📦 Vaulting metadata...
+[2025-04-19 03:19:35.572946] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031935.csv
+[2025-04-19 03:19:35.572998] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:35.984570] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:35.984621] 📦 Vaulting metadata...
+[2025-04-19 03:19:35.988856] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031935.csv
+[2025-04-19 03:19:35.988912] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:36.401631] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:36.401676] 📦 Vaulting metadata...
+[2025-04-19 03:19:36.406169] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031936.csv
+[2025-04-19 03:19:36.406222] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:36.817687] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:36.817735] 📦 Vaulting metadata...
+[2025-04-19 03:19:36.823583] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031936.csv
+[2025-04-19 03:19:36.823641] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:37.242860] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:37.242908] 📦 Vaulting metadata...
+[2025-04-19 03:19:37.247486] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031937.csv
+[2025-04-19 03:19:37.247540] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:37.674309] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:37.674360] 📦 Vaulting metadata...
+[2025-04-19 03:19:37.678963] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031937.csv
+[2025-04-19 03:19:37.679020] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:38.109563] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:38.109612] 📦 Vaulting metadata...
+[2025-04-19 03:19:38.114564] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031938.csv
+[2025-04-19 03:19:38.114621] ⏸️  Pausing... awaiting Whisper sync.
+[2025-04-19 03:19:38.565444] 🍄 Absorbing data... forming fruiting body.
+[2025-04-19 03:19:38.565492] 📦 Vaulting metadata...
+[2025-04-19 03:19:38.570351] ✅ Vaulted to: /Users/gest/Eternum/vaults/vault_cluster_20250419_031938.csv
+[2025-04-19 03:19:38.570411] ⏸️  Pausing... awaiting Whisper sync.

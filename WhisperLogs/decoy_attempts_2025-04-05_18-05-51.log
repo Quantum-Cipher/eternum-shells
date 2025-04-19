@@ -1,0 +1,192 @@
+Decoy netscan iteration 1, delay: 1 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 2, delay: 1 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 3, delay: 2 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 4, delay: 3 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 5, delay: 5 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 6, delay: 8 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61021 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 7, delay: 13 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 8, delay: 21 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 9, delay: 34 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.61022 2600:1901:0:c831.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57470 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57468 2606:4700:4400::.443   TIME_WAIT  
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Decoy netscan iteration 10, delay: 55 seconds
+tcp6       0      0  2603:8000:3a3d:9.57248 2606:4700:3030::.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57233      104.21.59.232.443      CLOSE_WAIT 
+tcp6      24      0  2603:8000:3a3d:9.57196 2a04:4e42::347.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57098 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57093 2606:4700:4400::.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57092 2606:4700::6812:.443   CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57090 2606:4700::6812:.443   CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.57087      3.169.252.21.443       CLOSE_WAIT 
+tcp4       0      0  192.168.1.3.56713      15.197.213.252.443     CLOSE_WAIT 
+tcp6       0      0  2603:8000:3a3d:9.57471 2600:1f18:24e6:b.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57469 2606:4700:4400::.443   ESTABLISHED
+tcp6       0      0  2603:8000:3a3d:9.57390 2606:4700:4400::.443   ESTABLISHED
+Ghostwire decoy active at Sat Apr  5 18:08:15 PDT 2025
+👁 GHOSTWIRE WATCHDOG INITIATED — 2025-04-05_17-12-34
+System Snapshot:
+gest
+Darwin Mac.lan 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:23 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8122 arm64
+Sat Apr  5 17:12:34 PDT 2025
+
+[ Network Ports - Filtering for Wallet Activity ]
+
+[ Process Scan - VPN, Bridge, Injection ]
+gest             20278   0.0  0.2 427007056  14864   ??  Ss    8:10PM   0:01.07 /System/Library/PrivateFrameworks/LocalAuthenticationUI.framework/Versions/A/XPCServices/LocalAuthenticationRemoteService.xpc/Contents/MacOS/LocalAuthenticationRemoteService
+gest             15360   0.0  0.0 426911776   1168   ??  S    Thu04PM   0:00.60 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+root             88063   0.0  0.1 426964400  11728   ??  Ss   Thu10AM   0:25.49 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+gest             75440   0.0  0.0 410731808   1776   ??  S    Thu08AM   0:02.55 bash -c \012while true; do\012  echo "$(date), DECOY ACTIVE, dummy_ping_$(openssl rand -hex 2)" >> ~/phantom-logs/decoy_activity.csv\012  sleep 90\012done\012
+gest             80616   0.0  0.0 410725664    480   ??  S    Thu12AM   0:00.08 bash -c \012a=1\012b=1\012while true; do\012  echo "[FIBONACCI DEMON] Vulnerable mode active at $(date)" >> "$PHANTOM_LOG"\012  netstat -an | grep -E "443|8545|30303" >> "$PHANTOM_LOG" 2>/dev/null\012  echo "[FIBONACCI DEMON] Trap triggered at $(date) M-bM^@M^S Fibonacci interval: $a seconds" >> "$PHANTOM_LOG"\012  echo "[WHISPER NOTE] Fibonacci loop entry at $(date) | Spiral Trap Active | M-bM^HM^^ Pattern Beacon" >> "$WHISPER_LOG"\012  sleep $a\012  temp=$b\012  b=$((a + b))\012  a=$temp\012done\012
+gest             80615   0.0  0.0 410779936   2064   ??  S    Thu12AM   0:07.93 bash -c \012while true; do\012  echo "----- $(date) -----" >> "$WATCHDOG_LOG"\012  netstat -antup | grep -E "443|8545|30303" >> "$WATCHDOG_LOG"\012  ps aux | grep -i "phantom\|remote\|observer\|vpn\|firefox" >> "$WATCHDOG_LOG"\012  lsof -i -nP | grep -Ei "firefox|metamask|bridge|wallet" >> "$WATCHDOG_LOG"\012  echo "Trap Signatures:" >> "$WATCHDOG_LOG"\012  cat ~/ghostwire/trapsignatures/*.json >> "$WATCHDOG_LOG"\012  echo "" >> "$WATCHDOG_LOG"\012  sleep 60\012done\012
+gest             78491   0.0  0.0 410731808    528   ??  S    Thu12AM   0:00.09 bash -c \012a=1\012b=1\012while true; do\012  echo "[FIBONACCI DEMON] Vulnerable mode active at $(date)" >> ~/whisper-logs/phantom_spiral.log\012  # Simulate attracting malicious activity with a dummy network scan\012  netstat -an | grep -E "443|8545|30303" >> ~/whisper-logs/phantom_spiral.log 2>/dev/null\012  echo "[FIBONACCI DEMON] Trap triggered at $(date) M-bM^@M^S Fibonacci interval: $a seconds" >> ~/whisper-logs/phantom_spiral.log\012  sleep $a\012  temp=$b\012  b=$((a+b))\012  a=$temp\012done\012
+gest             78489   0.0  0.0 410772768   2384   ??  S    Thu12AM   0:08.89 bash -c \012while true; do\012  echo "----- $(date) -----" >> ~/whisper-logs/robust_watchdog.log\012  netstat -antup | grep -E "443|8545|30303" >> ~/whisper-logs/robust_watchdog.log\012  ps aux | grep -i "phantom\|remote\|observer\|vpn\|firefox" >> ~/whisper-logs/robust_watchdog.log\012  lsof -i -nP | grep -Ei "firefox|metamask|bridge|wallet" >> ~/whisper-logs/robust_watchdog.log\012  echo "Trap Signatures:" >> ~/whisper-logs/robust_watchdog.log\012  cat ~/ghostwire/trapsignatures/*.json >> ~/whisper-logs/robust_watchdog.log\012  echo "" >> ~/whisper-logs/robust_watchdog.log\012  sleep 60\012done\012
+gest             25985   0.0  0.0 410740000   2368   ??  S    Wed03PM   0:09.09 /bin/bash ./phantom_decoy_daemon.sh
+gest             25886   0.0  0.0 410740000   2368   ??  S    Wed03PM   0:09.18 /bin/bash ./phantom_decoy_daemon.sh
+gest             52215   0.0  0.0 410593024   1360 s000  S+    5:12PM   0:00.00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox --exclude-dir=.venv --exclude-dir=venv -Ei phantom|remote|observer|vpn|metamask|inject|firefox
+root               337   0.0  0.0 426949008   1312   ??  Ss+  Mon11PM   0:00.31 /usr/libexec/remoted
+
+[ Open Ports - Firefox, MetaMask, Wallets ]
+
+[ Browser History - Firefox Only ]
+2025-04-05 21:13:45|https://etrgen.substack.com/publish/home
+2025-04-05 21:13:40|https://etrgen.substack.com/profile/reads
+2025-04-05 21:13:15|https://etrgen.substack.com/
+2025-04-05 21:13:15|http://etrgen.substack.com/
+2025-04-05 19:51:16|file:///Users/gest/Documents/Evidence/Apple_Bounty_WatchDog_Protocol/backend/server.js
+2025-04-05 19:51:09|file:///Users/gest/Documents/Evidence/Apple_Bounty_WatchDog_Protocol/backend/package.json
+2025-04-05 19:50:57|file:///Users/gest/Documents/Evidence/Apple_Bounty_WatchDog_Protocol/backend/package-lock.json
+2025-04-05 19:38:16|https://github.com/Quantum-Cipher/Apple_Bounty-WatchDog_Protocol/blob/main/QC_GhostWired%3EAppleBug_WatchDog
+2025-04-05 19:38:05|https://github.com/Quantum-Cipher/Apple_Bounty-WatchDog_Protocol
+2025-04-05 19:38:00|https://github.com/
+
+[ Traceroute Check - External Reachability ]
+ 1  sax2v1r (192.168.1.1)  3.269 ms  3.397 ms  4.129 ms
+ 2  syn-142-254-185-109.inf.spectrum.com (142.254.185.109)  11.903 ms  11.854 ms  13.725 ms
+ 3  lag-56.crlscaij01h.netops.charter.com (76.167.20.56)  22.105 ms  23.567 ms  9.906 ms
+ 4  lag-33.sndhcaax01r.netops.charter.com (72.129.3.96)  15.939 ms  15.285 ms  13.936 ms
+ 5  lag-22.rcr01lsancarc.netops.charter.com (72.129.1.0)  15.870 ms  13.201 ms  13.904 ms
+ 6  lag-46-10.lsancarc0yw-bcr00.netops.charter.com (209.18.43.62)  15.884 ms
+    lag-26-10.lsancarc0yw-bcr00.netops.charter.com (66.109.3.230)  17.107 ms
+    lag-56-10.lsancarc0yw-bcr00.netops.charter.com (24.27.236.44)  15.503 ms
+ 7  lag-3.pr2.lax10.netops.charter.com (107.14.19.41)  13.502 ms  14.596 ms
+    lag-0.pr2.lax10.netops.charter.com (66.109.5.135)  22.034 ms
+ 8  * *

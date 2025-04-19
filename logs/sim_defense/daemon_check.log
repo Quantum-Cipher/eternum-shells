@@ -1,0 +1,6 @@
+[*] Scanning for analytics and rogue daemons...
+234	-9	com.apple.inputanalyticsd
+90662	0	com.apple.networkserviceproxy
+-	-9	com.apple.analyticsagent
+-	0	com.apple.security.cloudkeychainproxy3
+23743	-9	com.apple.geoanalyticsd

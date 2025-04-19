@@ -1,0 +1,4 @@
+# GHOSTWIRE CROSSCHECK REPORT — 2025-04-18 19:12:03.571485
+
+[!] Match: edgeupdater → 84254	0	com.microsoft.EdgeUpdater.wake
+[!] Match: mdm → -	0	com.apple.mdmclient.agent

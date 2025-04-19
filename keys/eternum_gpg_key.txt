@@ -1,0 +1,7 @@
+GPG Key ID (Quantum-Cipher):
+A55DAFB3EADF15E0C8DD46B79F42B20896A71B22
+
+Generated: 2025-04-19
+User ID: Quantum-Cipher (Eternum4Eternity) <cipherpunk369@proton.me>
+Type: RSA 4096-bit
+Valid: Never expires

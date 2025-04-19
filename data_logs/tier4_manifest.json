@@ -1,0 +1,12 @@
+{
+  "tier": 4,
+  "timestamp": "2025-04-19T03:30:00Z",
+  "bundle_sha256": "eb980df189150925a595d22968039135a79dafbe52f126a15e503a0633849a4e",
+  "bundle_cid": "ipfs://QmXyFakeCIDabc123...",
+  "contract": "SAVEDAN.sol",
+  "institutions_logged": ["UCSD", "Novartis", "Scripps", "General Atomics"],
+  "operator": "Operator Echo",
+  "gpg_signature": "affidavit.sig",
+  "vault_file": "vault_cluster_20250419_031810.csv",
+  "deploy_mode": "ghost (local)"
+}

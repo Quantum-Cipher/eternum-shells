@@ -1,0 +1,6 @@
+cd ~/Eternum
+git checkout whisper_audit
+git add engine_logs/
+git commit -S -m "🛡️ Whisper Defense Audit Log — background agent sweep, port monitor, Edge trap"
+git push origin whisper_audit
+

@@ -1,0 +1,20 @@
+Error: Compiler run failed:
+Error (8936): Invalid character in string. If you are trying to use Unicode characters, use a unicode"..." string literal.
+  --> chain/deploy_mycelium_engine.s.sol:10:40:
+   |
+10 |     string public eternumShellSignal = "ETERNUM SHELL: YOU'RE NOT HARDCORE UNLESS YOU LIVE HARDCORE 🔒";
+   |                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Error (6275): Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ParserError: Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ --> chain/script/deploy_mycelium_engine.s.sol:4:1:
+  |
+4 | import "forge-std/Script.sol";
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Error (6275): Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ParserError: Source "forge-std/Script.sol" not found: File not found. Searched the following locations: "/Users/gest/Eternum".
+ --> script/deploy_mycelium_engine.s.sol:4:1:
+  |
+4 | import "forge-std/Script.sol";
+  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

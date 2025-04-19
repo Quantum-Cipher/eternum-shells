@@ -1,0 +1,69 @@
+183 /usr/libexec/neagent
+234 /usr/libexec/inputanalyticsd
+244 /usr/libexec/knowledge-agent
+249 /usr/libexec/searchpartyuseragent
+341 /usr/libexec/watchdogd
+399 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+418 /usr/sbin/distnoted agent
+420 /usr/libexec/ApplicationFirewall/socketfilterfw
+425 /usr/sbin/distnoted agent
+431 /usr/sbin/distnoted agent
+499 /usr/sbin/distnoted agent
+515 /usr/sbin/distnoted agent
+531 /usr/sbin/distnoted agent
+554 /usr/sbin/distnoted agent
+562 /usr/sbin/distnoted agent
+563 /usr/sbin/cfprefsd agent
+568 /usr/sbin/distnoted agent
+586 /usr/sbin/distnoted agent
+599 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+603 /usr/libexec/trustd --agent
+750 /usr/sbin/distnoted agent
+760 /usr/libexec/wifianalyticsd
+775 /usr/sbin/distnoted agent
+796 /usr/sbin/distnoted agent
+876 /usr/sbin/distnoted agent
+935 /usr/sbin/distnoted agent
+1003 /usr/sbin/distnoted agent
+4321 ssh-agent -s
+7739 /usr/libexec/trustd --agent
+22562 /usr/libexec/findmylocateagent
+22743 /usr/sbin/cfprefsd agent
+22744 /usr/libexec/trustd --agent
+22745 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+22752 /usr/sbin/cfprefsd agent
+22753 /usr/sbin/cfprefsd agent
+22755 /usr/libexec/trustd --agent
+22756 /usr/libexec/trustd --agent
+22757 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+22758 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+22795 /usr/sbin/cfprefsd agent
+22796 /usr/sbin/cfprefsd agent
+22797 /usr/sbin/cfprefsd agent
+22798 /usr/sbin/cfprefsd agent
+22799 /usr/sbin/cfprefsd agent
+22800 /usr/sbin/cfprefsd agent
+22801 /usr/sbin/cfprefsd agent
+22802 /usr/sbin/cfprefsd agent
+23011 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+23020 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+23026 /usr/libexec/online-auth-agent
+31783 /usr/libexec/icloudmailagent
+33681 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+36073 /usr/sbin/distnoted agent
+42548 /System/Library/CoreServices/iconservicesagent
+66007 gpg-agent --homedir /Users/gest/.gnupg --use-standard-socket --daemon
+90557 /usr/sbin/distnoted agent
+90603 /System/Library/CoreServices/talagentd
+90662 /usr/libexec/networkserviceproxy
+90689 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+90698 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+90699 /System/Library/CoreServices/diagnostics_agent
+90742 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+90921 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+90991 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+91039 /usr/sbin/distnoted agent
+91213 /usr/bin/ssh-agent -l
+91643 /usr/sbin/cfprefsd agent
+91764 /usr/sbin/distnoted agent
+94315 /usr/libexec/audioanalyticsd

@@ -1,0 +1,20 @@
+{
+  "name": "eternum",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # 🧬 Eternum Shells\\nThis contains guest shell configurations and vault drops. ======= # Eternum Shells Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quantum-Cipher/eternum-shells.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quantum-Cipher/eternum-shells/issues"
+  },
+  "homepage": "https://github.com/Quantum-Cipher/eternum-shells#readme"
+}
